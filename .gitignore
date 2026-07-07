@@ -1,0 +1,14 @@
+docs/
+content/
+src/
+STATUS.md
+.claude/
+.DS_Store
+*.bak
+*~
+*.swp
+*.orig
+.env*
+.vscode/
+mat-strong-backup-*.json
+password*
